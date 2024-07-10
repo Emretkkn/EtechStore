@@ -1,0 +1,93 @@
+@model List<OrderListModel>
+
+@if (Model.Count == 0)
+{
+    <div class="row">
+        <div class="col-md-12">
+            <div class="alert alert-warning">
+                Daha önce sipariş oluşturmadınız.
+            </div>
+        </div>
+    </div>
+}
+else {
+    <div class="row">
+        <div class="col-md-11 mx-auto">
+            <h1 class="mb-3">Siparişlerim</h1>
+            @foreach (var order in Model)
+            {
+                <div class="card form-shadow mb-3">
+                    <div class="card-body">
+                        <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#details-@order.OrderNumber">Detaylar</button>
+                        <table class="table table-bordered table-sm mt-2">
+                            <thead class="bg-secondary text-white">
+                                <tr>
+                                    <th class="text-center">Sipariş Numarası #@order.OrderNumber</th>
+                                    <th class="text-center">Ürün İsmi</th>
+                                    <th class="text-center">Fiyat</th>
+                                    <th class="text-center">Adet</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var orderItem in order.OrderItems)
+                                {
+                                    <tr>
+                                        <td class="d-flex justify-content-center align-items-center"><img src="~/img/@orderItem.ImageUrl" width="120"></td>
+                                        <td class="text-center pt-5">@orderItem.Name</td>
+                                        <td class="text-center pt-5">@orderItem.Price</td>
+                                        <td class="text-center pt-5">@orderItem.Quantity</td>
+                                    </tr>
+                                }
+                            </tbody>
+                            <tfoot class="collapse" id="details-@order.OrderNumber">
+                                <tr>
+                                    <td colspan="2">Müşteri</td>
+                                    <td>@order.FirstName @order.LastName</td>
+                                    <td class="text-center pt-5" rowspan="6">Toplam: @order.TotalPrice().ToString("c")</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">Adres: </td>
+                                    <td>@order.Address</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">E-posta: </td>
+                                    <td>@order.Email</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">Telefon: </td>
+                                    <td>@order.Phone</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">Sipariş Durumu: </td>
+                                    <td>
+                                        @if (@order.OrderState.ToString() == "completed")
+                                        {
+                                            <p class="m-0">Tamamlandı</p>
+                                        } else if (@order.OrderState.ToString() == "waiting"){
+                                            <p class="m-0">Ödeme Bekleniyor</p>
+                                        } else {
+                                            <p class="m-0">Ödeme Yapılmadı</p>
+                                        }
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">Ödeme Tipi: </td>
+                                    <td>
+                                        @if (@order.PaymentType.ToString() == "CreditCard")
+                                        {
+                                            <p class="m-0">Kredi Kartı</p>
+                                        } else if (@order.PaymentType.ToString() == "Eft"){
+                                            <p class="m-0">EFT</p>
+                                        } else {
+                                            <p class="m-0">Nakit</p>
+                                        }
+                                    </td>
+                                </tr>          
+                            </tfoot>
+                        </table>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+}

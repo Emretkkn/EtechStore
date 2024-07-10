@@ -1,0 +1,147 @@
+@model CategoryModel
+@section Css
+{
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.2/css/dataTables.bootstrap4.css"/>
+}
+
+@section Scripts
+{
+    <script src="/modules/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/modules/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+    <script src="https://cdn.datatables.net/2.0.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.0.2/js/dataTables.bootstrap4.js"></script>
+    <script>
+        $('#ProductList').DataTable({
+            "language": {
+                "sProcessing":    "İşleniyor...",
+                "sLengthMenu":    "Sayfa başına gösterilen kayıt _MENU_ ",
+                "sZeroRecords":   "Tabloda kayıt bulunamadı.",
+                "sEmptyTable":    "Boş Tablo",
+                "sInfo":          "_TOTAL_ kayıttan _START_ - _END_ arası gösteriliyor",
+                "sInfoFiltered":  "(Toplam _MAX_ kayıttan filtrelendi)",
+                "sInfoPostFix":   "",
+                "sSearch":        "Arama:",
+                "sUrl":           "",
+                "sInfoThousands":  ",",
+                "sLoadingRecords": "Yükleniyor...",
+                "oPaginate": {
+                    "sFirst":    "İlk sayfa",
+                    "sLast":    "Son sayfa",
+                    "sNext":    "Sonraki",
+                    "sPrevious": "Önceki"
+                },
+                "oAria": {
+                    "sSortAscending":  ": Sütunu artan sırada sıralamak için etkinleştirin",
+                    "sSortDescending": ": Sütunu azalan sırada sıralamak için etkinleştirin"
+                }
+            }
+
+        });
+    </script>
+}
+<h1 class="h3 mb-3">Kategoriyi Düzenle</h1>
+<div class="card form-shadow">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-controller="Admin" asp-action="CategoryEdit" method="POST">
+                    <div asp-validation-summary="All" class="text-danger"></div>
+                    <input type="hidden" name="CategoryId" value="@Model.CategoryId">
+                    <div class="form-group row">
+                        <label class="col-sm-2 col-form-label" asp-for="Name">Ad</label>
+                        <div class="col-sm-10">
+                            <input class="form-control" asp-for="Name">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label class="col-sm-2 col-form-label" asp-for="Url">Url</label>
+                        <div class="col-sm-10">
+                            <input class="form-control" asp-for="Url">
+                            <span asp-validation-for="Url" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-sm-10 offset-sm-2">
+                            <button type="submit" class="btn btn-primary">Kategoriyi Kaydet</button>
+                        </div>
+                    </div>
+                    <div id="products">
+                    @for (int i = 0; i < Model.Products.Count(); i++)
+                    {
+                        <input type="hidden" name="Products[@i].ProductId" value="@Model.Products[@i].ProductId">
+                        <input type="hidden" name="Products[@i].ImageUrl" value="@Model.Products[@i].ImageUrl">
+                        <input type="hidden" name="Products[@i].Name" value="@Model.Products[@i].Name">
+                        <input type="hidden" name="Products[@i].Price" value="@Model.Products[@i].Price">
+                        <input type="hidden" name="Products[@i].IsApproved" value="@Model.Products[@i].IsApproved.ToString()">     
+                    }
+                    
+                </div>
+                </form>
+            </div>
+            <div class="col-md-8">
+                <div class="row">
+                    <div class="col-md-12">
+                        <table id="ProductList" class="table table-bordered table-sm">
+                            <thead class="table-active">
+                                <tr>
+                                    <td style="width: 30px;" class="text-center">Id</td>
+                                    <td style="width: 100px;" class="text-center">Resim</td>
+                                    <td>Ürün İsmi</td>
+                                    <td style="width: 20px;" class="text-center">Fiyat</td>
+                                    <td style="width: 20px;" class="text-center">Onaylı</td>
+                                    <td style="width: 170px;" class="text-center">İşlemler</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model.Products.Count > 0)
+                                {
+                                    @foreach (var item in Model.Products)
+                                    {
+                                        <tr>
+                                            <td class="p-5">@item.ProductId</td>
+                                            <td>
+                                                <div class="d-flex justify-content-center align-items-center">
+                                                    <img src="~/img/@item.ImageUrl" width="120">
+                                                </div>
+                                            </td>
+                                            <td class="text-center pt-5">@item.Name</td>
+                                            <td class="text-center pt-5">@item.Price</td>
+                                            <td class="text-center pt-5">
+                                                @if (@item.IsApproved)
+                                                {
+                                                    <i class="fa-solid fa-circle-check green fa-2xl"></i>
+                                                }
+                                                else
+                                                {
+                                                    <i class="fa-solid fa-circle-xmark red fa-2xl"></i>
+                                                }
+                                            </td>
+                                            <td class="p-3">
+                                                <a href="/admin/products/@item.ProductId"
+                                                    class="btn btn-primary btn-block mb-2 mr-2">Düzenle</a>
+                                                <form action="/admin/deletefromcategory" method="POST">
+                                                    <input type="hidden" name="productId" value="@item.ProductId">
+                                                    <input type="hidden" name="categoryId" value="@Model.CategoryId">
+                                                    <button type="submit" class="btn btn-danger btn-block text-white">Kaldır</button>
+                                                </form>
+                                            </td>
+                                        </tr>
+                                    }
+                                }
+                                else
+                                {
+                                    <div class="alert alert-warning">
+                                        <h3>Veritabanında ürün bulunamadı.</h3>
+                                    </div>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

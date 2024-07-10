@@ -1,0 +1,188 @@
+@model List<GraphicModel>
+<div class="row">
+    <div class="col-md-12">
+        <div class="card charts">
+            <div class="card-body">
+              <div class="card-title h5 font-italic">Kategorilere Göre En Çok Satılan 7 Ürün (adet)</div>
+              <form asp-controller="Admin" asp-action="Graphics" method="POST">
+                <div class="row">
+                    <div class="col-md-10">
+                        <select name="catId" class="form-control mb-2">
+                          <option selected value="0">Tüm Ürünler</option>
+                          @foreach (var item in Model[0].Category)
+                          {
+                            <option value="@item.CategoryId">@item.Name</option>
+                          }
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                      <button class="btn btn-primary btn-block">Getir</button>
+                    </div>
+                </div>
+              </form>
+              <div id="chart1"></div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-12 mt-3">
+        <div class="card charts">
+            <div class="card-body">
+              <div class="card-title h5 font-italic">Tarih Aralığına Göre Satış Miktarları</div>
+              <form asp-controller="Admin" asp-action="Graphics" method="POST">
+                <div class="row">
+                    <div class="col-md-5">
+                        <input type="date" name="date1" class="form-control">
+                    </div>
+                    <div class="col-md-5">
+                        <input type="date" name="date2" class="form-control">
+                    </div>
+                    <div class="col-md-2">
+                      <button class="btn btn-primary btn-block">Getir</button>
+                    </div>
+                </div>
+              </form>
+              <div id="chart2"></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 mt-3">
+        <div class="card charts">
+            <div class="card-body">
+                <div class="card-title h5 font-italic">En Çok Alışveriş Yapan 5 Müşteri</div>
+                <div id="chart3"></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 mt-3">
+        <div class="card charts">
+            <div class="card-body">
+                <div class="card-title h5 font-italic">Kategorilere Göre Satış Oranları (%)</div>
+                <div id="chart4"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts
+{
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+    <script>
+        var options = {
+            chart: {
+                height: 350,
+                type: 'bar'
+            },
+            series: [{
+                name: 'Satışlar',
+                data: @Html.Raw(Json.Serialize(Model[0].Datas))
+            }],
+            plotOptions: {
+              bar: {
+                horizontal: false,
+                columnWidth: '40%',
+                endingShape: 'rounded'
+              },
+            },
+            stroke: {
+              show: true,
+              width: 2,
+              colors: ['transparent']
+            },
+            xaxis: {
+              categories: @Html.Raw(Json.Serialize(Model[0].Labels)),
+              labels: {
+                trim: true,
+                style: {
+                  fontSize: '13px'
+                },
+                offsetX: 0,
+              }
+            }
+        }
+
+        var chart = new ApexCharts(document.querySelector("#chart1"), options);
+        chart.render();
+    </script>
+    <script>
+        var options = {
+          series: [{
+          name: 'Satış Toplamı ',
+          data: @Html.Raw(Json.Serialize(Model[1].Datas)),
+        }],
+          chart: {
+          type: 'area',
+          height: 350
+        },
+        stroke: {
+          curve: 'smooth'
+        },
+        dataLabels: {
+          enabled: false
+        },
+        xaxis: {
+          categories: @Html.Raw(Json.Serialize(Model[1].Labels)),
+        },
+        yaxis: {
+          title: {
+            text: '(₺) (Türk Lirası)'
+          }
+        },
+        fill: {
+          opacity: 1
+        },
+        tooltip: {
+          y: {
+            formatter: function (val) {
+              return "₺ " + val + " Türk Lirası"
+            }
+          }
+        }
+        };
+
+        var chart = new ApexCharts(document.querySelector("#chart2"), options);
+        chart.render();
+    </script>
+    <script>
+        var options = {
+            chart: {
+                type: 'bar'
+            },
+            series: [{
+                name: 'Satışlar',
+                data: @Html.Raw(Json.Serialize(Model[2].Datas)),
+            }],
+            xaxis: {
+                categories: @Html.Raw(Json.Serialize(Model[2].Labels))
+            }
+        }
+
+        var chart = new ApexCharts(document.querySelector("#chart3"), options);
+        chart.render();
+    </script>
+    <script>
+        var options = {
+          series: @Html.Raw(Json.Serialize(Model[3].Datas)),
+          chart: {
+          width: 509,
+          type: 'pie',
+        },
+        labels: @Html.Raw(Json.Serialize(Model[3].Labels)),
+        responsive: [{
+          breakpoint: 480,
+          options: {
+            chart: {
+              width: 200
+            },
+            legend: {
+              position: 'bottom'
+            }
+          }
+        }]
+        };
+
+        var chart = new ApexCharts(document.querySelector("#chart4"), options);
+        chart.render();
+    </script>
+}

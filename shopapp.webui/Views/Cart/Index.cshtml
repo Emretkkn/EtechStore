@@ -1,0 +1,137 @@
+@model CartModel
+
+@if (Model.CartItems.Count == 0)
+{
+    <div class="row">
+        <div class="col-md-12">
+            <div class="alert alert-warning">
+                Sepetinizde ürün yok.
+            </div>
+        </div>
+    </div>
+} else {
+    <div class="row mt-2">
+        <div class="col-md-8">
+            <div class="text-left mb-3">
+                <h4>Sepet Detayları</h4>
+            </div>
+            <div class="card form-shadow">
+                <div class="card-body">
+                    <table id="myCart" class="table table-hover">
+                        <thead class="table-active">
+                            <tr>
+                                <th class="text-center">Resim</th>
+                                <th class="text-center">Ürün İsmi</th>
+                                <th class="text-center">Fiyatı</th>
+                                <th class="text-center">Adet</th>
+                                <th class="text-center">Toplam</th>
+                                <th class="text-center">Kaldır</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.CartItems)
+                            {
+                                <tr>
+                                    <td class="p-1">
+                                        <div class="d-flex justify-content-center align-items-center">
+                                            <img src="~/img/@item.ImageUrl" width="100">
+                                        </div>
+                                    </td>
+                                    <td class="text-center pt-4">@item.Name</td>
+                                    <td class="text-center pt-4">@(item.Price.ToString("c"))</td>
+                                    <td class="text-center pt-4">@item.Quantity</td>
+                                    <td class="text-center pt-4">@((item.Quantity*item.Price).ToString("c"))</td>
+                                    <td class="text-center pt-4">
+                                        <form method="POST" asp-controller="Cart" asp-action="DeleteFromCart">
+                                            <input type="hidden" name="productId" value="@item.ProductId">
+                                            <button type="submit" class="btn btn-danger btn-sm">
+                                                <i class="fa-solid fa-trash"></i>
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="text-left mb-3">
+                <h4>Sepet Özeti</h4>
+            </div>
+            <div class="card form-shadow">
+                <div class="card-body">
+                    <table class="table">
+                        <tbody>
+                            <tr>
+                                <th>Sepet Toplamı:</th>
+                                <td>@Model.TotalPrice().ToString("c")</td>
+                            </tr>
+                            <tr>
+                                <th>Kargo Ücreti</th>
+                                <th>Ücretsiz</th>
+                            </tr>
+                            <tr>
+                                <th>Sipariş Toplamı</th>
+                                <th>@Model.TotalPrice().ToString("c")</th>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="text-center">
+                        <a href="/shop/list" class="btn btn-primary mr-2">
+                            <i class="fa-solid fa-cart-shopping"></i> Alışverişe Devam Et
+                        </a>
+                        <a href="/checkout" class="btn btn-danger">
+                            <i class="fa-solid fa-credit-card"></i> Tamamla
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+
+
+
+
+
+@section Css
+{
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.2/css/dataTables.bootstrap4.css"/>
+}
+
+@section Scripts
+{
+    <script src="https://cdn.datatables.net/2.0.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.0.2/js/dataTables.bootstrap4.js"></script>
+    <script>
+        $('#myCart').DataTable({
+            "language": {
+                "sProcessing":    "İşleniyor...",
+                "sLengthMenu":    "Sayfa başına gösterilen ürün _MENU_ ",
+                "sZeroRecords":   "Tabloda kayıt bulunamadı.",
+                "sEmptyTable":    "Boş Tablo",
+                "sInfo":          "_TOTAL_ kayıttan _START_ - _END_ arası gösteriliyor",
+                "sInfoFiltered":  "(Toplam _MAX_ kayıttan filtrelendi)",
+                "sInfoPostFix":   "",
+                "sSearch":        "Arama:",
+                "sUrl":           "",
+                "sInfoThousands":  ",",
+                "sLoadingRecords": "Yükleniyor...",
+                "oPaginate": {
+                    "sFirst":    "İlk sayfa",
+                    "sLast":    "Son sayfa",
+                    "sNext":    "Sonraki",
+                    "sPrevious": "Önceki"
+                },
+                "oAria": {
+                    "sSortAscending":  ": Sütunu artan sırada sıralamak için etkinleştirin",
+                    "sSortDescending": ": Sütunu azalan sırada sıralamak için etkinleştirin"
+                }
+            }
+
+        });
+    </script>
+}

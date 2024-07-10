@@ -1,0 +1,115 @@
+@model ProductListViewModel
+@section Css
+{
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.2/css/dataTables.bootstrap4.css"/>
+}
+
+@section Scripts
+{
+    <script src="https://cdn.datatables.net/2.0.2/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.0.2/js/dataTables.bootstrap4.js"></script>
+    <script>
+        $('#ProductList').DataTable({
+            "language": {
+                "sProcessing":    "İşleniyor...",
+                "sLengthMenu":    "Sayfa başına gösterilen kayıt _MENU_ ",
+                "sZeroRecords":   "Tabloda kayıt bulunamadı.",
+                "sEmptyTable":    "Boş Tablo",
+                "sInfo":          "_TOTAL_ kayıttan _START_ - _END_ arası gösteriliyor",
+                "sInfoFiltered":  "(Toplam _MAX_ kayıttan filtrelendi)",
+                "sInfoPostFix":   "",
+                "sSearch":        "Arama:",
+                "sUrl":           "",
+                "sInfoThousands":  ",",
+                "sLoadingRecords": "Yükleniyor...",
+                "oPaginate": {
+                    "sFirst":    "İlk sayfa",
+                    "sLast":    "Son sayfa",
+                    "sNext":    "Sonraki",
+                    "sPrevious": "Önceki"
+                },
+                "oAria": {
+                    "sSortAscending":  ": Sütunu artan sırada sıralamak için etkinleştirin",
+                    "sSortDescending": ": Sütunu azalan sırada sıralamak için etkinleştirin"
+                }
+            }
+
+        });
+    </script>
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <h1 class="h2 mb-3">Ürün Yönetimi</h1>
+        <a class="btn btn-primary btn mb-3" href="/admin/products/create">Ürün Ekle</a>
+        <div class="card table-shadow">
+            <div class="card-body">
+                <table id="ProductList" class="table table-bordered mt-3">
+                    <thead class="table-active">
+                        <tr>
+                            <td style="width: 30px;" class="text-center">Id</td>
+                            <td style="width: 150px;" class="text-center">Resim</td>
+                            <td>Ürün İsmi</td>
+                            <td style="width: 20px;" class="text-center">Fiyat</td>
+                            <td style="width: 20px;" class="text-center">Anasayfa</td>
+                            <td style="width: 20px;" class="text-center">Onaylı</td>
+                            <td style="width: 170px;" class="text-center">İşlemler</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.Products.Count > 0)
+                        {
+                            @foreach (var item in Model.Products)
+                            {
+                                <tr>
+                                    <td class="p-5">@item.ProductId</td>
+                                    <td>
+                                        <div class="d-flex justify-content-center align-items-center">
+                                            <img src="~/img/@item.ImageUrl" width="120">
+                                        </div>
+                                    </td>
+                                    <td class="p-5">@item.Name</td>
+                                    <td class="p-5">@(((double)item.Price).ToString("c"))</td>
+                                    <td class="text-center pt-5">
+                                        @if (@item.IsHome)
+                                        {
+                                            <i class="fa-solid fa-circle-check green fa-2xl"></i>
+                                        }
+                                        else
+                                        {
+                                            <i class="fa-solid fa-circle-xmark red fa-2xl"></i>
+                                        }
+                                    </td>
+                                    <td class="text-center pt-5">
+                                        @if (@item.IsApproved)
+                                        {
+                                            <i class="fa-solid fa-circle-check green fa-2xl"></i>
+                                        }
+                                        else
+                                        {
+                                            <i class="fa-solid fa-circle-xmark red fa-2xl"></i>
+                                        }
+                                    </td>
+                                    <td class="p-3 pt-4">
+                                        <a href="/admin/products/@item.ProductId"
+                                            class="btn btn-primary btn-block mb-2 mr-2">Düzenle</a>
+                                        <form action="/admin/deleteproduct" method="POST">
+                                            <input type="hidden" name="productId" value="@item.ProductId">
+                                            <button type="submit" class="btn btn-danger btn-block text-white">Kaldır</button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <div class="alert alert-warning">
+                                <h3>Veritabanında ürün bulunamadı.</h3>
+                            </div>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1093 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\00c1436a-dfdc-4d14-b3b7-d61b33cf1a35.webp",
+      "PackagePath": "staticwebassets\\img\\00c1436a-dfdc-4d14-b3b7-d61b33cf1a35.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\04fc20f5-a4f2-47c6-9fda-36299fe54608.jpg",
+      "PackagePath": "staticwebassets\\img\\04fc20f5-a4f2-47c6-9fda-36299fe54608.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\05a4678a-0280-42fd-90a0-2a6c07f59202.jpg",
+      "PackagePath": "staticwebassets\\img\\05a4678a-0280-42fd-90a0-2a6c07f59202.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\05fd18fa-b08b-4b32-8537-e83d8e0fe193.jpg",
+      "PackagePath": "staticwebassets\\img\\05fd18fa-b08b-4b32-8537-e83d8e0fe193.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\07f4d904-139f-487b-abc6-64c47157b81e.webp",
+      "PackagePath": "staticwebassets\\img\\07f4d904-139f-487b-abc6-64c47157b81e.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\09f4c77d-a6e5-4680-827c-2c8d1a1a0311.webp",
+      "PackagePath": "staticwebassets\\img\\09f4c77d-a6e5-4680-827c-2c8d1a1a0311.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\1101ac90-7b8b-4853-a930-8098271b7b07.webp",
+      "PackagePath": "staticwebassets\\img\\1101ac90-7b8b-4853-a930-8098271b7b07.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\11f50510-1d0d-4236-ab9a-6d3adc581c7c.jpg",
+      "PackagePath": "staticwebassets\\img\\11f50510-1d0d-4236-ab9a-6d3adc581c7c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\165103c4-e1e6-47f6-bb3b-434482d8f3d1.jpg",
+      "PackagePath": "staticwebassets\\img\\165103c4-e1e6-47f6-bb3b-434482d8f3d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\1665f994-3593-4037-982b-12d3850b6d95.jpg",
+      "PackagePath": "staticwebassets\\img\\1665f994-3593-4037-982b-12d3850b6d95.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\1868cc5b-0b38-41eb-b0c3-ad78bfb40d9a.webp",
+      "PackagePath": "staticwebassets\\img\\1868cc5b-0b38-41eb-b0c3-ad78bfb40d9a.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\19456a39-086a-40f2-867e-e054524f1655.jpg",
+      "PackagePath": "staticwebassets\\img\\19456a39-086a-40f2-867e-e054524f1655.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\199eb62c-42da-4054-a26b-1492a5a10eba.webp",
+      "PackagePath": "staticwebassets\\img\\199eb62c-42da-4054-a26b-1492a5a10eba.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\1a8e75e3-9b36-4a2a-9072-92b5d2a225a2.jpg",
+      "PackagePath": "staticwebassets\\img\\1a8e75e3-9b36-4a2a-9072-92b5d2a225a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\1ac3e51a-7baa-4398-951a-95bab1f5a328.webp",
+      "PackagePath": "staticwebassets\\img\\1ac3e51a-7baa-4398-951a-95bab1f5a328.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\1ebb3c18-8ecc-421a-899e-83e4f933539e.jpg",
+      "PackagePath": "staticwebassets\\img\\1ebb3c18-8ecc-421a-899e-83e4f933539e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\244895b9-4fd4-4493-a129-3f7d875a3a6d.jpg",
+      "PackagePath": "staticwebassets\\img\\244895b9-4fd4-4493-a129-3f7d875a3a6d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\25e1b65d-4603-455f-a3dd-498931cba900.jpg",
+      "PackagePath": "staticwebassets\\img\\25e1b65d-4603-455f-a3dd-498931cba900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\263a647e-5c9f-4fd9-9c54-58be20c05a29.jpg",
+      "PackagePath": "staticwebassets\\img\\263a647e-5c9f-4fd9-9c54-58be20c05a29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\2673b4c7-dcc8-47e3-b86f-3ca9c9da8403.jpg",
+      "PackagePath": "staticwebassets\\img\\2673b4c7-dcc8-47e3-b86f-3ca9c9da8403.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\287761b0-9766-49c5-bd74-11c08183ec58.webp",
+      "PackagePath": "staticwebassets\\img\\287761b0-9766-49c5-bd74-11c08183ec58.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\290430b5-01a5-4339-bb29-eea8d3e3d035.webp",
+      "PackagePath": "staticwebassets\\img\\290430b5-01a5-4339-bb29-eea8d3e3d035.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\291299e7-0b24-4666-b8fc-8e722e9dfe4f.jpg",
+      "PackagePath": "staticwebassets\\img\\291299e7-0b24-4666-b8fc-8e722e9dfe4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\2d7b3ea5-566f-4fcd-8a42-8e533ae1e7b3.jpg",
+      "PackagePath": "staticwebassets\\img\\2d7b3ea5-566f-4fcd-8a42-8e533ae1e7b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\2f1ec265-1a6e-4716-9634-84440b94f965.jpg",
+      "PackagePath": "staticwebassets\\img\\2f1ec265-1a6e-4716-9634-84440b94f965.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\2f9ef8c7-62b9-4cff-995e-55a6cbffcaba.jpg",
+      "PackagePath": "staticwebassets\\img\\2f9ef8c7-62b9-4cff-995e-55a6cbffcaba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\3124b525-84d5-474f-867a-4dde3c697f98.jpg",
+      "PackagePath": "staticwebassets\\img\\3124b525-84d5-474f-867a-4dde3c697f98.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\31a67929-62e6-491b-acac-03066e68c479.webp",
+      "PackagePath": "staticwebassets\\img\\31a67929-62e6-491b-acac-03066e68c479.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\35c51bcd-fe46-49c4-9cb3-e55ffc787ae7.webp",
+      "PackagePath": "staticwebassets\\img\\35c51bcd-fe46-49c4-9cb3-e55ffc787ae7.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\3c49c152-4748-474d-89c8-111db216564d.jpg",
+      "PackagePath": "staticwebassets\\img\\3c49c152-4748-474d-89c8-111db216564d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\3d49ee37-0b50-459c-a0ff-4cbdd83138c4.webp",
+      "PackagePath": "staticwebassets\\img\\3d49ee37-0b50-459c-a0ff-4cbdd83138c4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\3e38aa62-0e67-4d74-922b-d4a65dbb5fd8.jpg",
+      "PackagePath": "staticwebassets\\img\\3e38aa62-0e67-4d74-922b-d4a65dbb5fd8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\427fc45a-a463-48ec-a6c2-4cb05f8fef48.webp",
+      "PackagePath": "staticwebassets\\img\\427fc45a-a463-48ec-a6c2-4cb05f8fef48.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\44b82cd9-75fe-46a9-bf9f-67f5653adc32.webp",
+      "PackagePath": "staticwebassets\\img\\44b82cd9-75fe-46a9-bf9f-67f5653adc32.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\46bdc710-97fa-4287-bfc2-af57631a767d.webp",
+      "PackagePath": "staticwebassets\\img\\46bdc710-97fa-4287-bfc2-af57631a767d.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\47db8825-1bf0-422a-a164-088673e2a034.jpg",
+      "PackagePath": "staticwebassets\\img\\47db8825-1bf0-422a-a164-088673e2a034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\48225ef0-a625-47a2-adad-4e85682c1234.webp",
+      "PackagePath": "staticwebassets\\img\\48225ef0-a625-47a2-adad-4e85682c1234.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\4842d0bc-adff-439d-895f-1988904bfb9c.webp",
+      "PackagePath": "staticwebassets\\img\\4842d0bc-adff-439d-895f-1988904bfb9c.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\485805e9-4224-4265-b1f8-ce56d2d16852.webp",
+      "PackagePath": "staticwebassets\\img\\485805e9-4224-4265-b1f8-ce56d2d16852.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\4a3ac6c5-44b0-43db-8918-00691b8f2ec5.webp",
+      "PackagePath": "staticwebassets\\img\\4a3ac6c5-44b0-43db-8918-00691b8f2ec5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\4d4d0221-dc2e-4c80-8b6f-18d82bce0c7b.webp",
+      "PackagePath": "staticwebassets\\img\\4d4d0221-dc2e-4c80-8b6f-18d82bce0c7b.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\5007d31d-c7e6-423d-af38-7a5b3050cb84.webp",
+      "PackagePath": "staticwebassets\\img\\5007d31d-c7e6-423d-af38-7a5b3050cb84.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\519fa4e8-424d-471a-a4f0-00e130d504e2.jpg",
+      "PackagePath": "staticwebassets\\img\\519fa4e8-424d-471a-a4f0-00e130d504e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\527983fc-74b2-475e-a5b9-bf0225a9d7d3.jpg",
+      "PackagePath": "staticwebassets\\img\\527983fc-74b2-475e-a5b9-bf0225a9d7d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\52dbe8f7-f4ee-4633-bcca-04dbcb22c96e.webp",
+      "PackagePath": "staticwebassets\\img\\52dbe8f7-f4ee-4633-bcca-04dbcb22c96e.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\563abeb1-0574-45df-9f5b-682ecd87ce91.jpg",
+      "PackagePath": "staticwebassets\\img\\563abeb1-0574-45df-9f5b-682ecd87ce91.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\5e51de68-98f3-4de2-91e9-4ff4998e3cd3.jpg",
+      "PackagePath": "staticwebassets\\img\\5e51de68-98f3-4de2-91e9-4ff4998e3cd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\5f7de370-bfb0-4949-a5d6-7c4cb8c67856.webp",
+      "PackagePath": "staticwebassets\\img\\5f7de370-bfb0-4949-a5d6-7c4cb8c67856.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\603f1998-c73b-4936-be8d-8a67f2b039dd.jpg",
+      "PackagePath": "staticwebassets\\img\\603f1998-c73b-4936-be8d-8a67f2b039dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\60ddeea3-99d6-43ee-907a-fb2158fd3ab8.jpg",
+      "PackagePath": "staticwebassets\\img\\60ddeea3-99d6-43ee-907a-fb2158fd3ab8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\62bf4739-472e-4518-b607-6d60d2508757.webp",
+      "PackagePath": "staticwebassets\\img\\62bf4739-472e-4518-b607-6d60d2508757.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\630b474d-bd34-4f6e-bc2d-2baad19ebd8c.jpg",
+      "PackagePath": "staticwebassets\\img\\630b474d-bd34-4f6e-bc2d-2baad19ebd8c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\64554988-8ae6-444c-8f61-c3b5ee095a21.webp",
+      "PackagePath": "staticwebassets\\img\\64554988-8ae6-444c-8f61-c3b5ee095a21.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\668984cd-b80e-46eb-98e4-d174a26891d0.jpg",
+      "PackagePath": "staticwebassets\\img\\668984cd-b80e-46eb-98e4-d174a26891d0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\69cb7d53-9387-4964-96fb-927ec5c99af8.jpg",
+      "PackagePath": "staticwebassets\\img\\69cb7d53-9387-4964-96fb-927ec5c99af8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\6b1bff19-bfba-4335-8a90-7fd8062c2aec.jpg",
+      "PackagePath": "staticwebassets\\img\\6b1bff19-bfba-4335-8a90-7fd8062c2aec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\6fd0f034-7c72-4b09-8ebb-3a938e90a477.webp",
+      "PackagePath": "staticwebassets\\img\\6fd0f034-7c72-4b09-8ebb-3a938e90a477.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\732f1b4e-c7ff-4b8f-ada5-32b30ad59e41.webp",
+      "PackagePath": "staticwebassets\\img\\732f1b4e-c7ff-4b8f-ada5-32b30ad59e41.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\74bcd2f4-cd4d-4b5c-8e9a-abc07ca2843b.jpg",
+      "PackagePath": "staticwebassets\\img\\74bcd2f4-cd4d-4b5c-8e9a-abc07ca2843b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\75af5d04-3c57-405e-bad0-90701bb810ac.jpg",
+      "PackagePath": "staticwebassets\\img\\75af5d04-3c57-405e-bad0-90701bb810ac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\760f79de-6981-4acd-90f6-e89c80feec32.webp",
+      "PackagePath": "staticwebassets\\img\\760f79de-6981-4acd-90f6-e89c80feec32.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\779e2e0b-18a0-43b5-923a-3af23e4c20d3.webp",
+      "PackagePath": "staticwebassets\\img\\779e2e0b-18a0-43b5-923a-3af23e4c20d3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\78a6f2af-6c1e-41f2-9b37-48aec4a2a693.webp",
+      "PackagePath": "staticwebassets\\img\\78a6f2af-6c1e-41f2-9b37-48aec4a2a693.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\7e516452-d63e-4f8f-8159-acc9774d3b2a.webp",
+      "PackagePath": "staticwebassets\\img\\7e516452-d63e-4f8f-8159-acc9774d3b2a.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\7e529616-9dd0-4f02-a86f-f0e3450a6d25.webp",
+      "PackagePath": "staticwebassets\\img\\7e529616-9dd0-4f02-a86f-f0e3450a6d25.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\8738f365-9846-4b21-8962-f0b46c81b65f.webp",
+      "PackagePath": "staticwebassets\\img\\8738f365-9846-4b21-8962-f0b46c81b65f.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\88c48e6c-95d5-421e-8c9b-e3d08576f97c.jpg",
+      "PackagePath": "staticwebassets\\img\\88c48e6c-95d5-421e-8c9b-e3d08576f97c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\88f37115-6b64-4347-9952-ea646d8ff0b8.webp",
+      "PackagePath": "staticwebassets\\img\\88f37115-6b64-4347-9952-ea646d8ff0b8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\890cc320-c151-48a8-82a4-ed67740dd233.webp",
+      "PackagePath": "staticwebassets\\img\\890cc320-c151-48a8-82a4-ed67740dd233.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\8a0ed339-c20e-4029-9bfd-a786c917343e.webp",
+      "PackagePath": "staticwebassets\\img\\8a0ed339-c20e-4029-9bfd-a786c917343e.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\91ab09f9-377a-4a58-b2d6-71cc088306cd.webp",
+      "PackagePath": "staticwebassets\\img\\91ab09f9-377a-4a58-b2d6-71cc088306cd.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\938dd8c3-72dd-49ad-950c-32ed8d10532a.jpg",
+      "PackagePath": "staticwebassets\\img\\938dd8c3-72dd-49ad-950c-32ed8d10532a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\93e23bba-8233-4a59-b2b4-e08f2c26be61.jpg",
+      "PackagePath": "staticwebassets\\img\\93e23bba-8233-4a59-b2b4-e08f2c26be61.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\956f03ef-4406-47ab-8ebb-a9b54b4d2b1f.jpg",
+      "PackagePath": "staticwebassets\\img\\956f03ef-4406-47ab-8ebb-a9b54b4d2b1f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\95fb3393-4d48-4b5c-90bf-42d7a23101b2.webp",
+      "PackagePath": "staticwebassets\\img\\95fb3393-4d48-4b5c-90bf-42d7a23101b2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\960f8078-cef8-4194-9fc0-74117bd65cc2.webp",
+      "PackagePath": "staticwebassets\\img\\960f8078-cef8-4194-9fc0-74117bd65cc2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\9796e86a-4333-44cf-9672-8d1ddd3bcb14.jpg",
+      "PackagePath": "staticwebassets\\img\\9796e86a-4333-44cf-9672-8d1ddd3bcb14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\987730d3-2304-4c3b-9e8f-9eab5d8a3b99.webp",
+      "PackagePath": "staticwebassets\\img\\987730d3-2304-4c3b-9e8f-9eab5d8a3b99.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\9950298f-019d-44aa-94fe-2406a8b4f400.jpg",
+      "PackagePath": "staticwebassets\\img\\9950298f-019d-44aa-94fe-2406a8b4f400.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\9991b7d2-568f-47a2-9f6e-0fa76a121cbd.jpg",
+      "PackagePath": "staticwebassets\\img\\9991b7d2-568f-47a2-9f6e-0fa76a121cbd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\9aaa4048-4ea0-4fa1-9df4-817352dd6e81.jpg",
+      "PackagePath": "staticwebassets\\img\\9aaa4048-4ea0-4fa1-9df4-817352dd6e81.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\9b76e6a2-2ff6-4d80-a7ed-e928f1ea2201.jpg",
+      "PackagePath": "staticwebassets\\img\\9b76e6a2-2ff6-4d80-a7ed-e928f1ea2201.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\9b95b2f6-20e0-43d9-bbb8-405157e947f9.jpg",
+      "PackagePath": "staticwebassets\\img\\9b95b2f6-20e0-43d9-bbb8-405157e947f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\9b9a7b97-45da-4ef8-9654-b33ec48c75d9.jpg",
+      "PackagePath": "staticwebassets\\img\\9b9a7b97-45da-4ef8-9654-b33ec48c75d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\Dell Xps 13 9320 Evo.webp",
+      "PackagePath": "staticwebassets\\img\\Dell Xps 13 9320 Evo.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\a18bf094-39a8-44d5-adca-a087f219d200.webp",
+      "PackagePath": "staticwebassets\\img\\a18bf094-39a8-44d5-adca-a087f219d200.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\a3dbb270-5904-432a-acb6-eaf0fd9e7f61.webp",
+      "PackagePath": "staticwebassets\\img\\a3dbb270-5904-432a-acb6-eaf0fd9e7f61.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\a4508205-86aa-489b-8a03-da78c81fdaf5.jpg",
+      "PackagePath": "staticwebassets\\img\\a4508205-86aa-489b-8a03-da78c81fdaf5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\a4f5ff0b-5471-4472-a4fd-76e80420eaf5.webp",
+      "PackagePath": "staticwebassets\\img\\a4f5ff0b-5471-4472-a4fd-76e80420eaf5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\a8c7d73a-f382-4088-889c-5af4e9c09edb.jpg",
+      "PackagePath": "staticwebassets\\img\\a8c7d73a-f382-4088-889c-5af4e9c09edb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\ac214e72-b10d-476c-b1ae-9d525ab9e0eb.jpg",
+      "PackagePath": "staticwebassets\\img\\ac214e72-b10d-476c-b1ae-9d525ab9e0eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\acer-aspire-3.webp",
+      "PackagePath": "staticwebassets\\img\\acer-aspire-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\acer-aspire-5.webp",
+      "PackagePath": "staticwebassets\\img\\acer-aspire-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\acer-nitro-16.jpg",
+      "PackagePath": "staticwebassets\\img\\acer-nitro-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\acer-nitro-5.jpg",
+      "PackagePath": "staticwebassets\\img\\acer-nitro-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\afde12af-844f-4986-b280-6319173ecda8.webp",
+      "PackagePath": "staticwebassets\\img\\afde12af-844f-4986-b280-6319173ecda8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\asus-rog-ally.jpg",
+      "PackagePath": "staticwebassets\\img\\asus-rog-ally.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\asus-rog-raikiri-pro.webp",
+      "PackagePath": "staticwebassets\\img\\asus-rog-raikiri-pro.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\asus-rog-strix-g16.jpg",
+      "PackagePath": "staticwebassets\\img\\asus-rog-strix-g16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\asus-rog-zephyrus.webp",
+      "PackagePath": "staticwebassets\\img\\asus-rog-zephyrus.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\asus-tuf-gaming-a15.jpg",
+      "PackagePath": "staticwebassets\\img\\asus-tuf-gaming-a15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\asus-vivobook-15.webp",
+      "PackagePath": "staticwebassets\\img\\asus-vivobook-15.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\asus-vivobook-go-15.webp",
+      "PackagePath": "staticwebassets\\img\\asus-vivobook-go-15.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\axen-ax43dil540.webp",
+      "PackagePath": "staticwebassets\\img\\axen-ax43dil540.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\axen-ax55fil243.webp",
+      "PackagePath": "staticwebassets\\img\\axen-ax55fil243.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\b064da03-4cf1-425d-87d0-bd3471e0d532.jpg",
+      "PackagePath": "staticwebassets\\img\\b064da03-4cf1-425d-87d0-bd3471e0d532.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\b6dbc80e-d359-44bf-96ac-20e454d113ab.webp",
+      "PackagePath": "staticwebassets\\img\\b6dbc80e-d359-44bf-96ac-20e454d113ab.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\bafdaa07-b50f-4d42-968f-90ac4470ec03.jpg",
+      "PackagePath": "staticwebassets\\img\\bafdaa07-b50f-4d42-968f-90ac4470ec03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\bbf4a6c8-bb07-4f9c-a5b9-4e8de650baa3.webp",
+      "PackagePath": "staticwebassets\\img\\bbf4a6c8-bb07-4f9c-a5b9-4e8de650baa3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\bdc5dc6a-8ee5-4a1e-9dbf-fcba43d18286.webp",
+      "PackagePath": "staticwebassets\\img\\bdc5dc6a-8ee5-4a1e-9dbf-fcba43d18286.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\be2cba80-f411-4b31-95a4-f3d3d45e9110.webp",
+      "PackagePath": "staticwebassets\\img\\be2cba80-f411-4b31-95a4-f3d3d45e9110.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\be970167-028a-4fcd-b71a-676aeaaae40a.webp",
+      "PackagePath": "staticwebassets\\img\\be970167-028a-4fcd-b71a-676aeaaae40a.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\c2b7ba9d-7355-42e4-91b3-cae00a74c38a.webp",
+      "PackagePath": "staticwebassets\\img\\c2b7ba9d-7355-42e4-91b3-cae00a74c38a.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\c4eaa4e3-c213-41e6-aadd-b117e0fc9cf5.webp",
+      "PackagePath": "staticwebassets\\img\\c4eaa4e3-c213-41e6-aadd-b117e0fc9cf5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\c62b17ab-570d-4733-8e46-7c4e879dc48b.webp",
+      "PackagePath": "staticwebassets\\img\\c62b17ab-570d-4733-8e46-7c4e879dc48b.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\c7e21acb-d287-42f8-a7e5-9ee80164dafa.webp",
+      "PackagePath": "staticwebassets\\img\\c7e21acb-d287-42f8-a7e5-9ee80164dafa.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\c964c4f1-4194-4767-8fe3-462ca6483d04.jpg",
+      "PackagePath": "staticwebassets\\img\\c964c4f1-4194-4767-8fe3-462ca6483d04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\casper-nirvana-x600.webp",
+      "PackagePath": "staticwebassets\\img\\casper-nirvana-x600.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\casper-via-l40.jpg",
+      "PackagePath": "staticwebassets\\img\\casper-via-l40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\casper-via-s40.jpg",
+      "PackagePath": "staticwebassets\\img\\casper-via-s40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\cf1b4f95-075f-4df5-b68c-cea01aa08a56.jpg",
+      "PackagePath": "staticwebassets\\img\\cf1b4f95-075f-4df5-b68c-cea01aa08a56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\cfb7af27-ad23-4fa0-ac88-44246f3338f2.webp",
+      "PackagePath": "staticwebassets\\img\\cfb7af27-ad23-4fa0-ac88-44246f3338f2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\d0b28399-51f1-4b96-89a4-0c4b1e90ad66.jpg",
+      "PackagePath": "staticwebassets\\img\\d0b28399-51f1-4b96-89a4-0c4b1e90ad66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\d33ba35c-fdbd-4bf7-b088-f80c42f3c168.webp",
+      "PackagePath": "staticwebassets\\img\\d33ba35c-fdbd-4bf7-b088-f80c42f3c168.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\d4603b94-e29d-40f0-a9d2-1c76214d122e.webp",
+      "PackagePath": "staticwebassets\\img\\d4603b94-e29d-40f0-a9d2-1c76214d122e.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\d640c926-5442-4c57-bb30-8ca845301320.webp",
+      "PackagePath": "staticwebassets\\img\\d640c926-5442-4c57-bb30-8ca845301320.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\da7c7496-0059-4a91-bf03-423729cdb09a.webp",
+      "PackagePath": "staticwebassets\\img\\da7c7496-0059-4a91-bf03-423729cdb09a.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\db1ddb6b-97ed-4cb2-a5b2-1a2b31a64c32.jpg",
+      "PackagePath": "staticwebassets\\img\\db1ddb6b-97ed-4cb2-a5b2-1a2b31a64c32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\dbf73580-da70-46c8-84b8-cb85f34a706b.webp",
+      "PackagePath": "staticwebassets\\img\\dbf73580-da70-46c8-84b8-cb85f34a706b.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\dc2e6509-3785-42b8-bdf3-401b273c60b0.webp",
+      "PackagePath": "staticwebassets\\img\\dc2e6509-3785-42b8-bdf3-401b273c60b0.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\dd48876c-1bf2-47d6-b5fa-fbf368e8ef18.jpg",
+      "PackagePath": "staticwebassets\\img\\dd48876c-1bf2-47d6-b5fa-fbf368e8ef18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\dell-alienware-m18.webp",
+      "PackagePath": "staticwebassets\\img\\dell-alienware-m18.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\dell-gaming-g15.jpg",
+      "PackagePath": "staticwebassets\\img\\dell-gaming-g15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\dfd4f868-0d92-490d-8b9c-ef754dadd343.webp",
+      "PackagePath": "staticwebassets\\img\\dfd4f868-0d92-490d-8b9c-ef754dadd343.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\dualsense.jpg",
+      "PackagePath": "staticwebassets\\img\\dualsense.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\dualshock.webp",
+      "PackagePath": "staticwebassets\\img\\dualshock.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\e10c2121-f911-48cf-8090-1d80c9cd5fa6.webp",
+      "PackagePath": "staticwebassets\\img\\e10c2121-f911-48cf-8090-1d80c9cd5fa6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\e1a57998-8e6a-4787-92b1-aed0fecb79fb.webp",
+      "PackagePath": "staticwebassets\\img\\e1a57998-8e6a-4787-92b1-aed0fecb79fb.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\e258e483-9328-4eb8-913c-6e45caf6a082.webp",
+      "PackagePath": "staticwebassets\\img\\e258e483-9328-4eb8-913c-6e45caf6a082.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\e3e798d8-38b2-4fac-8e1d-e86970bc7e8b.webp",
+      "PackagePath": "staticwebassets\\img\\e3e798d8-38b2-4fac-8e1d-e86970bc7e8b.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\e542a754-0d51-4880-ae43-2e0033f97136.jpg",
+      "PackagePath": "staticwebassets\\img\\e542a754-0d51-4880-ae43-2e0033f97136.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\e6f8a1ce-a587-4cd3-9dea-8b1d1ef10f39.webp",
+      "PackagePath": "staticwebassets\\img\\e6f8a1ce-a587-4cd3-9dea-8b1d1ef10f39.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\e711c3a8-8b94-4fbb-aaba-93b1444c0aa9.jpg",
+      "PackagePath": "staticwebassets\\img\\e711c3a8-8b94-4fbb-aaba-93b1444c0aa9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\e78b5c8f-300b-4117-9807-d97fb367b69d.webp",
+      "PackagePath": "staticwebassets\\img\\e78b5c8f-300b-4117-9807-d97fb367b69d.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\e86f9245-a7a7-465d-92db-6fbab446e8ef.webp",
+      "PackagePath": "staticwebassets\\img\\e86f9245-a7a7-465d-92db-6fbab446e8ef.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\e8fef7d2-2956-4771-b3c2-9b5ab6915b88.jpg",
+      "PackagePath": "staticwebassets\\img\\e8fef7d2-2956-4771-b3c2-9b5ab6915b88.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\e9b51738-7fc6-4050-8a1d-2f226c736bd0.jpg",
+      "PackagePath": "staticwebassets\\img\\e9b51738-7fc6-4050-8a1d-2f226c736bd0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\ea15378f-ed4d-43bb-a27f-671cba1534b9.jpg",
+      "PackagePath": "staticwebassets\\img\\ea15378f-ed4d-43bb-a27f-671cba1534b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\eca82e8f-1682-43a4-974b-eeafd61aaa50.webp",
+      "PackagePath": "staticwebassets\\img\\eca82e8f-1682-43a4-974b-eeafd61aaa50.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\excalibur-g870.jpg",
+      "PackagePath": "staticwebassets\\img\\excalibur-g870.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\f0ac904a-1467-41ba-b4e7-95ec2b7c0792.webp",
+      "PackagePath": "staticwebassets\\img\\f0ac904a-1467-41ba-b4e7-95ec2b7c0792.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\f23308a7-9537-4b94-96e1-2b117a4dbc5b.jpg",
+      "PackagePath": "staticwebassets\\img\\f23308a7-9537-4b94-96e1-2b117a4dbc5b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\f2ca916b-43e8-4d46-a55d-527cd609d34a.webp",
+      "PackagePath": "staticwebassets\\img\\f2ca916b-43e8-4d46-a55d-527cd609d34a.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\f5f8d3e7-a07b-4535-bdb6-c551832cfcf1.webp",
+      "PackagePath": "staticwebassets\\img\\f5f8d3e7-a07b-4535-bdb6-c551832cfcf1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\f90e5e0a-8cae-4f12-8fa7-7d712df806a4.jpg",
+      "PackagePath": "staticwebassets\\img\\f90e5e0a-8cae-4f12-8fa7-7d712df806a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\fa78af9e-8ca9-48ff-be89-69fb2965219e.webp",
+      "PackagePath": "staticwebassets\\img\\fa78af9e-8ca9-48ff-be89-69fb2965219e.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\fb1c1939-c292-4b1b-aaee-a4496ddb8e77.webp",
+      "PackagePath": "staticwebassets\\img\\fb1c1939-c292-4b1b-aaee-a4496ddb8e77.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\fb82c26c-dc80-4653-9410-0b6f34b14ce5.webp",
+      "PackagePath": "staticwebassets\\img\\fb82c26c-dc80-4653-9410-0b6f34b14ce5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\fc9e404f-2bf8-46df-8a60-f513e8f6a3e5.webp",
+      "PackagePath": "staticwebassets\\img\\fc9e404f-2bf8-46df-8a60-f513e8f6a3e5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\fd55ad04-0a9a-434e-9d2d-ec75a026231a.jpg",
+      "PackagePath": "staticwebassets\\img\\fd55ad04-0a9a-434e-9d2d-ec75a026231a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\fe2ec643-a691-4b73-bf84-ca931d321999.webp",
+      "PackagePath": "staticwebassets\\img\\fe2ec643-a691-4b73-bf84-ca931d321999.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\fe448e0b-2993-4733-9b3f-35ad57dab966.jpg",
+      "PackagePath": "staticwebassets\\img\\fe448e0b-2993-4733-9b3f-35ad57dab966.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\fead3779-b854-47df-9ea8-03684ac51248.jpg",
+      "PackagePath": "staticwebassets\\img\\fead3779-b854-47df-9ea8-03684ac51248.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\galaxy-tab-a9.jpg",
+      "PackagePath": "staticwebassets\\img\\galaxy-tab-a9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\galaxy-tab-s9-fe.webp",
+      "PackagePath": "staticwebassets\\img\\galaxy-tab-s9-fe.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\galaxy-tab-s9-ultra.jpg",
+      "PackagePath": "staticwebassets\\img\\galaxy-tab-s9-ultra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\gigabyte-aero-16.webp",
+      "PackagePath": "staticwebassets\\img\\gigabyte-aero-16.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\gm-24-pro.webp",
+      "PackagePath": "staticwebassets\\img\\gm-24-pro.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\hometech-alfa-10bt-business.webp",
+      "PackagePath": "staticwebassets\\img\\hometech-alfa-10bt-business.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\hometech-gtx-jaculus.webp",
+      "PackagePath": "staticwebassets\\img\\hometech-gtx-jaculus.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\honor-magic-6-pro.webp",
+      "PackagePath": "staticwebassets\\img\\honor-magic-6-pro.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\honor-pad-8.jpg",
+      "PackagePath": "staticwebassets\\img\\honor-pad-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\honorpad-x9.jpg",
+      "PackagePath": "staticwebassets\\img\\honorpad-x9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\hp-omen-16.jpg",
+      "PackagePath": "staticwebassets\\img\\hp-omen-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\hp-victus-16.jpg",
+      "PackagePath": "staticwebassets\\img\\hp-victus-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\huawei-matebook-14.webp",
+      "PackagePath": "staticwebassets\\img\\huawei-matebook-14.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\huawei-matebook-d15.webp",
+      "PackagePath": "staticwebassets\\img\\huawei-matebook-d15.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\huawei-matebook-d16.webp",
+      "PackagePath": "staticwebassets\\img\\huawei-matebook-d16.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\huawei-matepad-se.webp",
+      "PackagePath": "staticwebassets\\img\\huawei-matepad-se.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\huawei-p60-pro.webp",
+      "PackagePath": "staticwebassets\\img\\huawei-p60-pro.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\huawei-papermatte.jpg",
+      "PackagePath": "staticwebassets\\img\\huawei-papermatte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\ipad-10.nesil.jpg",
+      "PackagePath": "staticwebassets\\img\\ipad-10.nesil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\ipad-9.nesil.jpg",
+      "PackagePath": "staticwebassets\\img\\ipad-9.nesil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\ipad-air-5.nesil.jpg",
+      "PackagePath": "staticwebassets\\img\\ipad-air-5.nesil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\ipad-pro-4.nesil.jpg",
+      "PackagePath": "staticwebassets\\img\\ipad-pro-4.nesil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\iphone11.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\iphone12.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\iphone13-pro-max.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone13-pro-max.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\iphone13.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\iphone14promax.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone14promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\iphone15.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\iphone15promax.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone15promax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\iphone5s.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone5s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\iphone6s.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone6s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\iphone7.jpg",
+      "PackagePath": "staticwebassets\\img\\iphone7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\iphonex.jpg",
+      "PackagePath": "staticwebassets\\img\\iphonex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\lenovo-ideapad-flex-5.webp",
+      "PackagePath": "staticwebassets\\img\\lenovo-ideapad-flex-5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\lenovo-ideapad-gaming-3.jpg",
+      "PackagePath": "staticwebassets\\img\\lenovo-ideapad-gaming-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\lenovo-ideapad-slim-3.webp",
+      "PackagePath": "staticwebassets\\img\\lenovo-ideapad-slim-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\lenovo-tab-m10-plus.webp",
+      "PackagePath": "staticwebassets\\img\\lenovo-tab-m10-plus.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\lenovo-tab-m11.jpg",
+      "PackagePath": "staticwebassets\\img\\lenovo-tab-m11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\lenovo-yoga-tab-11.webp",
+      "PackagePath": "staticwebassets\\img\\lenovo-yoga-tab-11.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\lg-65qned756.webp",
+      "PackagePath": "staticwebassets\\img\\lg-65qned756.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\lg-oled55c34.webp",
+      "PackagePath": "staticwebassets\\img\\lg-oled55c34.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\logitech-f310.webp",
+      "PackagePath": "staticwebassets\\img\\logitech-f310.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\logitech-f710.webp",
+      "PackagePath": "staticwebassets\\img\\logitech-f710.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\logitech-g-g29.webp",
+      "PackagePath": "staticwebassets\\img\\logitech-g-g29.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\logitech-g-g920.webp",
+      "PackagePath": "staticwebassets\\img\\logitech-g-g920.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\logitech-g-g923.webp",
+      "PackagePath": "staticwebassets\\img\\logitech-g-g923.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\macbook-air.webp",
+      "PackagePath": "staticwebassets\\img\\macbook-air.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\macbook-pro.webp",
+      "PackagePath": "staticwebassets\\img\\macbook-pro.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\microsoft-surface-pro-9.jpg",
+      "PackagePath": "staticwebassets\\img\\microsoft-surface-pro-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\monster-notebook-abra-a5-v1713-1.jpg",
+      "PackagePath": "staticwebassets\\img\\monster-notebook-abra-a5-v1713-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\monster-notebook-abra-a7-v1253-1.jpg",
+      "PackagePath": "staticwebassets\\img\\monster-notebook-abra-a7-v1253-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\msi-claw.webp",
+      "PackagePath": "staticwebassets\\img\\msi-claw.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\msi-cyborg-15.webp",
+      "PackagePath": "staticwebassets\\img\\msi-cyborg-15.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\msi-katana-15.jpg",
+      "PackagePath": "staticwebassets\\img\\msi-katana-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\msi-katana-17.jpg",
+      "PackagePath": "staticwebassets\\img\\msi-katana-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\msi-summit.webp",
+      "PackagePath": "staticwebassets\\img\\msi-summit.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\nintendo-switch.webp",
+      "PackagePath": "staticwebassets\\img\\nintendo-switch.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\omix-x6.webp",
+      "PackagePath": "staticwebassets\\img\\omix-x6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\omix-x7.webp",
+      "PackagePath": "staticwebassets\\img\\omix-x7.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\oppo-reno-11.webp",
+      "PackagePath": "staticwebassets\\img\\oppo-reno-11.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\philips-ambilight.webp",
+      "PackagePath": "staticwebassets\\img\\philips-ambilight.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\phillips-55oled908.webp",
+      "PackagePath": "staticwebassets\\img\\phillips-55oled908.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\ps4-pro.webp",
+      "PackagePath": "staticwebassets\\img\\ps4-pro.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\ps4.webp",
+      "PackagePath": "staticwebassets\\img\\ps4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\ps5-slim.webp",
+      "PackagePath": "staticwebassets\\img\\ps5-slim.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\ps5-standard.webp",
+      "PackagePath": "staticwebassets\\img\\ps5-standard.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\razer-edge.webp",
+      "PackagePath": "staticwebassets\\img\\razer-edge.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\razer-kishi-v2.webp",
+      "PackagePath": "staticwebassets\\img\\razer-kishi-v2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\razer-wolverine.webp",
+      "PackagePath": "staticwebassets\\img\\razer-wolverine.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\realme-11-pro-plus.jpg",
+      "PackagePath": "staticwebassets\\img\\realme-11-pro-plus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\realme-c55.webp",
+      "PackagePath": "staticwebassets\\img\\realme-c55.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\s22.jpg",
+      "PackagePath": "staticwebassets\\img\\s22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\samsung-qe-65q60c.webp",
+      "PackagePath": "staticwebassets\\img\\samsung-qe-65q60c.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\samsung-ue-65cu8500.webp",
+      "PackagePath": "staticwebassets\\img\\samsung-ue-65cu8500.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\samsunga24.jpg",
+      "PackagePath": "staticwebassets\\img\\samsunga24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\samsungs7.jpg",
+      "PackagePath": "staticwebassets\\img\\samsungs7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\samsungs8.jpg",
+      "PackagePath": "staticwebassets\\img\\samsungs8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\samsungs9.jpg",
+      "PackagePath": "staticwebassets\\img\\samsungs9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\samsungs_24.webp",
+      "PackagePath": "staticwebassets\\img\\samsungs_24.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\slider1.png",
+      "PackagePath": "staticwebassets\\img\\slider1.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\slider2.png",
+      "PackagePath": "staticwebassets\\img\\slider2.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\slider3.png",
+      "PackagePath": "staticwebassets\\img\\slider3.png"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\snopy-rampage-race.webp",
+      "PackagePath": "staticwebassets\\img\\snopy-rampage-race.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\tcl-55c645.webp",
+      "PackagePath": "staticwebassets\\img\\tcl-55c645.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\tcl-65c845.jpg",
+      "PackagePath": "staticwebassets\\img\\tcl-65c845.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\tcl-nxtpaper.webp",
+      "PackagePath": "staticwebassets\\img\\tcl-nxtpaper.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\tcl-tab-11.webp",
+      "PackagePath": "staticwebassets\\img\\tcl-tab-11.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\tecno-camon-20-pro.webp",
+      "PackagePath": "staticwebassets\\img\\tecno-camon-20-pro.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\tecno-spark-10.webp",
+      "PackagePath": "staticwebassets\\img\\tecno-spark-10.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\valve-steam-deck.webp",
+      "PackagePath": "staticwebassets\\img\\valve-steam-deck.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\vestel-43fa9530.webp",
+      "PackagePath": "staticwebassets\\img\\vestel-43fa9530.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\vestel-65qa9700.webp",
+      "PackagePath": "staticwebassets\\img\\vestel-65qa9700.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\vivo-v30.webp",
+      "PackagePath": "staticwebassets\\img\\vivo-v30.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\vivo-y36.webp",
+      "PackagePath": "staticwebassets\\img\\vivo-y36.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\warp-tab-wp11.webp",
+      "PackagePath": "staticwebassets\\img\\warp-tab-wp11.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\xbox-gamepad-w.webp",
+      "PackagePath": "staticwebassets\\img\\xbox-gamepad-w.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\xbox-gamepad.jpg",
+      "PackagePath": "staticwebassets\\img\\xbox-gamepad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\xbox-one-s.jpg",
+      "PackagePath": "staticwebassets\\img\\xbox-one-s.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\xbox-series-s.webp",
+      "PackagePath": "staticwebassets\\img\\xbox-series-s.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\xbox-series-x.jpg",
+      "PackagePath": "staticwebassets\\img\\xbox-series-x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\xiaomi-note-13-pro.webp",
+      "PackagePath": "staticwebassets\\img\\xiaomi-note-13-pro.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\xiaomi-pad-6.webp",
+      "PackagePath": "staticwebassets\\img\\xiaomi-pad-6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Emre\\Belgeler\\Komple Uygulamalı Web Geliştirme Eğitimi\\.NET Core\\.Net Core Mvc\\shopapp\\shopapp.webui\\wwwroot\\img\\xiaomi-redmi-pad-se.jpg",
+      "PackagePath": "staticwebassets\\img\\xiaomi-redmi-pad-se.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.shopapp.webui.props",
+      "PackagePath": "build\\shopapp.webui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.shopapp.webui.props",
+      "PackagePath": "buildMultiTargeting\\shopapp.webui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.shopapp.webui.props",
+      "PackagePath": "buildTransitive\\shopapp.webui.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.shopapp.webui.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

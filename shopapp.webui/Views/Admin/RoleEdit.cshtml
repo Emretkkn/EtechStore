@@ -1,0 +1,61 @@
+@model RoleDetails
+
+<div class="row">
+    <div class="col-md-10 mx-auto">
+        <h1 class="h3 mb-3">Rol Düzenle</h1>
+        <div class="card table-shadow">
+            <div class="card-body">
+                <form asp-controller="Admin" asp-action="RoleEdit">
+                    <input type="hidden" name="RoleId" value="@Model.Role.Id">
+                    <input type="hidden" name="RoleName" value="@Model.Role.Name">
+                    <h6 class="bg-primary text-white p-1">@Model.Role.Name rolüne ekle</h6>
+                    <table class="table table-bordered table-hover table-sm">
+                        @if (Model.NonMembers.Count() == 0)
+                        {
+                            <tr>
+                                <td colspan="2">Tüm kullanıcılar @Model.Role.Name.ToLower() rolüne ait.</td>
+                            </tr>
+                        } else {
+                            @foreach (var user in Model.NonMembers)
+                            {
+                                <tr>
+                                    <td>@user.UserName</td>
+                                    <td style="width: 300px;">
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input" name="IdsToAdd" value="@user.Id">
+                                        </div>
+                                    </td>
+                                </tr>
+                            } 
+                        }
+                    </table>
+
+                    <hr>
+
+                    <h6 class="bg-danger text-white p-1">@Model.Role.Name rolünden kaldır</h6>
+                    <table class="table table-bordered table-sm">
+                        @if (Model.Members.Count() == 0)
+                        {
+                            <tr>
+                                <td colspan="2">@Model.Role.Name.ToLower() rolünde hiçbir kullanıcı bulunmamaktadır.</td>
+                            </tr>
+                        } else {
+                            @foreach (var user in Model.Members)
+                            {
+                                <tr>
+                                    <td>@user.UserName</td>
+                                    <td style="width: 300px;">
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input" name="IdsToRemove" value="@user.Id">
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </table>
+                    <button type="submit" class="btn btn-warning">Kaydet</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

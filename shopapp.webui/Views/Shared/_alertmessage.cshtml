@@ -1,0 +1,11 @@
+@if (@TempData["message"] != null)
+{
+    var msg = JsonConvert.DeserializeObject<AlertMessage>(@TempData["message"] as string);
+    <div class="row">
+        <div class="col-md-12">
+            <div class="alert alert-@msg.ClassType">
+                <p class="h5 m-0">@msg.Message</p>
+            </div>
+        </div>
+    </div>
+}

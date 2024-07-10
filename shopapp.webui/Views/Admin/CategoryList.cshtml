@@ -1,0 +1,49 @@
+@model CategoryListViewModel
+
+<div class="row">
+    <div class="col-md-10 mx-auto">
+        <h1 class="h2 mb-3">Kategori Yönetimi</h1>
+        <a class="btn btn-primary btn-sm mb-3" href="/admin/categories/create">Kategori Ekle</a>
+        <div class="card table-shadow">
+            <div class="card-body">
+                <table class="table table-bordered mt-3">
+                    <thead class="table-active">
+                        <tr>
+                            <td style="width: 30px;">Id</td>
+                            <td>Kategori Adı</td>
+                            <td style="width: 170px;">İşlemler</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.Categories.Count > 0)
+                        {
+                            @foreach (var item in Model.Categories)
+                            {
+                                <tr>
+                                    <td class="text-center">@item.CategoryId</td>
+                                    <td>@item.Name</td>
+                                    <td>
+                                        <a href="/admin/categories/@item.CategoryId" class="btn btn-primary btn-sm mr-2">Düzenle</a>
+                                        <form action="/admin/deletecategory" method="POST" style="display: inline;">
+                                            <input type="hidden" name="categoryId" value="@item.CategoryId">
+                                            <button type="submit" class="btn btn-danger btn-sm text-white">Kaldır</button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <div class="alert alert-warning">
+                                <h3>Veritabanında kategori bulunamadı.</h3>
+                            </div>
+                        }
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+    </div>
+</div>

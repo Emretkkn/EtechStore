@@ -1,0 +1,111 @@
+@model OrderModel   
+<h1 class="mb-3">Ödeme Sayfası</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-md-7">
+            <h4 class="mb-3">Sipariş Detayı</h4>
+            <form method="POST" asp-controller="Cart" asp-action="Checkout">
+                <div class="card">
+                    <div class="card-body">
+                        <input type="hidden" name="cartId">
+                        <div class="row mb-3">
+                            <div class="col-md-6">
+                                <label asp-for="@Model.FirstName">Ad</label>
+                                <input asp-for="@Model.FirstName" class="form-control">
+                                <span asp-validation-for="@Model.FirstName" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-6">
+                                <label asp-for="@Model.LastName">Soyad</label>
+                                <input asp-for="@Model.LastName" class="form-control">
+                                <span asp-validation-for="@Model.LastName" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="@Model.Address">Adres</label>
+                            <textarea asp-for="@Model.Address" class="form-control"></textarea>
+                            <span asp-validation-for="@Model.Address" class="text-danger"></span>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-4">
+                                <label asp-for="@Model.City">Şehir</label>
+                                <input asp-for="@Model.City" class="form-control">
+                                <span asp-validation-for="@Model.City" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-4">
+                                <label asp-for="@Model.Phone">Telefon</label>
+                                <input asp-for="@Model.Phone" class="form-control">
+                                <span asp-validation-for="@Model.Phone" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-4">
+                                <label asp-for="@Model.Email">E-posta</label>
+                                <input asp-for="@Model.Email" class="form-control">
+                                <span asp-validation-for="@Model.Email" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <h4 class="mb-3 mt-3">Ödeme Bilgileri</h4>
+                <div class="card">
+                    <div class="card-body">
+                        <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label asp-for="@Model.CardName">Kart Sahibi</label>
+                        <input asp-for="@Model.CardName" class="form-control">
+                        <span asp-validation-for="@Model.CardName" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-6">
+                        <label asp-for="@Model.CardNumber">Kart Numarası</label>
+                        <input asp-for="@Model.CardNumber" class="form-control">
+                        <span asp-validation-for="@Model.CardNumber" class="text-danger"></span>
+                    </div>
+                        </div>
+                        <div class="row mb-3">
+                            <div class="col-md-4">
+                                <label asp-for="@Model.ExpirationMonth">Ay</label>
+                                <input asp-for="@Model.ExpirationMonth" class="form-control">
+                                <span asp-validation-for="@Model.ExpirationMonth" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-4">
+                                <label asp-for="@Model.ExpirationYear">Yıl</label>
+                                <input asp-for="@Model.ExpirationYear" class="form-control">
+                                <span asp-validation-for="@Model.ExpirationYear" class="text-danger"></span>
+                            </div>
+                            <div class="col-md-4">
+                                <label asp-for="@Model.Cvc">CVC</label>
+                                <input asp-for="@Model.Cvc" class="form-control">
+                                <span asp-validation-for="@Model.Cvc" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary btn-lg btn-block mt-3">Tamamla</button>
+            </form>
+        </div>
+        <div class="col-md-5">
+            <h4 class="mb-3">
+                <span>Sipariş Özeti</span>
+            </h4>
+            <ul class="list-group mb-3">
+
+                @foreach (var item in Model.CartModel.CartItems)
+                {
+                    <li class="list-group-item d-flex justify-content-between">
+                        <div>
+                            <h6>@item.Name (@item.Quantity)</h6>
+                        </div>
+                        <span class="text-muted">@item.Price.ToString("c")</span>
+                    </li>
+                }
+                <li class="list-group-item d-flex justify-content-between">
+                    <span>Toplam (TL)</span>
+                    <strong>@Model.CartModel.TotalPrice().ToString("c")</strong>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+@section Scripts
+{
+    <script src="/modules/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/modules/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+}

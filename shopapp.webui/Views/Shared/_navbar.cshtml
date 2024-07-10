@@ -1,0 +1,59 @@
+<div class="navbar bg-primary navbar-dark navbar-expand-md">
+    <div class="container">
+        <a href="/" class="navbar-brand">
+            <i class="fa-solid fa-microchip fa-xl"></i>&nbsp;E-Tech Store
+        </a>
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a href="/products" class="nav-link">Ürünler</a>
+            </li>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <li class="nav-item">
+                <a href="/cart" class="nav-link">Sepetim</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/orders" class="nav-link">Siparişler</a>
+                </li>
+            }
+        </ul>
+        <ul class="navbar-nav ml-auto">
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                @if (User.IsInRole("Admin"))
+                {
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-light admin-btn dropdown-toggle mr-2" data-toggle="dropdown">
+                            Yönetim Sayfaları
+                        </button>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="/admin/products" class="nav-link">Ürün Yönetimi</a>
+                            <a class="dropdown-item" href="/admin/categories" class="nav-link">Kategori Yönetimi</a>
+                            <a class="dropdown-item" href="/admin/role/list" class="nav-link">Yetkilendirme</a>
+                            <a class="dropdown-item" href="/admin/user/list" class="nav-link">Kullanıcı Yönetimi</a>
+                            <a class="dropdown-item" href="/admin/graphics" class="nav-link">Analizler</a>
+                        </div>
+                    </div>
+                }
+                <li class="nav-item">
+                    <a href="" class="nav-link">@User.Identity.Name</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/account/logout" class="nav-link">
+                        <i class="fa-solid fa-power-off fa-lg"></i>
+                    </a>
+                </li>
+            }
+            else
+            {
+                <li class="nav-item">
+                    <a href="/account/login" class="nav-link">Giriş Yap</a>
+                </li>
+                <li class="nav-item">
+                    <a href="/account/register" class="nav-link">Kayıt Ol</a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>

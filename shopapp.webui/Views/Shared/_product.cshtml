@@ -1,0 +1,25 @@
+@model Product
+<div class="card mb-3">
+    <img class="card-img-top" src="~/img/@Model.ImageUrl">
+    <div class="card-body flex-fill">
+        <h5 class="card-title" style="font-size: 16px;">@Model.Name</h5>
+        <small class="text-muted">
+            <i class="fa-solid fa-turkish-lira-sign"></i> @Model.Price
+        </small>
+    </div>
+    <div class="card-footer text-center">
+        <a asp-controller="shop" asp-action="Details" asp-route-url="@Model.Url" class="btn btn-primary mr-2">
+            <i class="fa-solid fa-magnifying-glass"></i> İncele
+        </a>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <form asp-controller="Cart" asp-action="AddToCart" method="POST" style="display: inline;">
+                <input type="hidden" name="productId" value="@Model.ProductId">
+                <input type="hidden" name="quantity" value="1">
+                <button type="submit" class="btn btn-danger">
+                    <i class="fa-solid fa-cart-plus"></i> Ekle
+                </button> 
+            </form>
+        }
+    </div>
+</div>
